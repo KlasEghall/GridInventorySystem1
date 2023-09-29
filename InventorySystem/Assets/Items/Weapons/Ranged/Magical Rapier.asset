@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa310d2b7343814b9d433dc5f91f09b, type: 3}
+  m_Name: Magical Rapier
+  m_EditorClassIdentifier: 
+  itemName: Magic Rapier
+  toolTip: A magical Rapier
+  img: {fileID: 0}
+  maxStackCount: 1
+  itemRarity: 2
+  itemQuality: 2
+  itemValue: 420
+  weight: 69
+  maxDurability: 200
+  currentDurability: 200
+  damages:
+  - damageType: 0
+    damage: 20
+  - damageType: 3
+    damage: 10
+  slot: 0
+  type: 0

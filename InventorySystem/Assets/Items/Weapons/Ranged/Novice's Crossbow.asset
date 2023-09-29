@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa310d2b7343814b9d433dc5f91f09b, type: 3}
+  m_Name: Novice's Crossbow
+  m_EditorClassIdentifier: 
+  itemName: Novice's Crossbow
+  toolTip: A simple crossbow for a Novice in training.
+  img: {fileID: 0}
+  maxStackCount: 1
+  itemRarity: 0
+  itemQuality: 0
+  itemValue: 180
+  weight: 18
+  maxDurability: 130
+  currentDurability: 130
+  damages:
+  - damageType: 0
+    damage: 15
+  slot: 0
+  type: 0
